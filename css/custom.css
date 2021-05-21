@@ -193,3 +193,6 @@ header.masthead {
 .description-item {
   padding-top: 20px;
 }
+.masthead {
+  min-height: 100vh;
+}
